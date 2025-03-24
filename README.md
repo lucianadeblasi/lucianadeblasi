@@ -61,3 +61,7 @@ I am a computer programming student, currently halfway through my degree. I am e
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+<br>
+<br>
+  <br>
