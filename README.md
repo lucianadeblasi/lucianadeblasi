@@ -55,6 +55,7 @@ I am a computer programming student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/linkedin-6CCECB?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<br>
+
+
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
