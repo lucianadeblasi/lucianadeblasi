@@ -58,7 +58,7 @@ I am a computer programming student, currently halfway through my degree. I am e
 <br>
   <br>
 
-Thanks for visiting my profile! I'm constantly learning and ready to improve every day. Check out my repositories!
+⭐ Thanks for visiting my profile! I'm constantly learning and ready to improve every day. Check out my repositories! 🚀
 
 <br>
 <br>
