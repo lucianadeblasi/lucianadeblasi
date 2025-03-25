@@ -12,7 +12,7 @@ I am a computer programming student, currently halfway through my degree. I am e
   - Angular
   - SQL
 - 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
+- ✔ Ask me about anything, I am happy to help.<br>
 - Outside tech, I love practicing yoga, playing piano, and reading detective books.
 - Reach out to me at: <a href="lucianaddeblasi@gmail.com">lucianaddeblasi@gmail.com</a>
 
