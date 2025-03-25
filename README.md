@@ -16,7 +16,7 @@ I am a computer programming student, currently halfway through my degree. I am e
 - Outside tech, I love practicing yoga, playing piano, and reading detective books.
 - Reach out to me at: <a href="lucianaddeblasi@gmail.com">lucianaddeblasi@gmail.com</a>
 
-## My Skills include
+## My skills include
 
 <h4> Languages </h4>
 <span> 
@@ -34,7 +34,7 @@ I am a computer programming student, currently halfway through my degree. I am e
 
 <h4> Other Tools and Technologies </h4>
 <span>
-  <img src="https://img.shields.io/badge/react-9C8AA5?style=for-the-badge&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/react-1572B6?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
