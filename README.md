@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a computer programming student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. I love learning and building new, productive, and creative projects. I am passionate about continuously learning and staying up to date with new technologies.
+I am a computer programming student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. I love building new, productive, and creative projects. I am passionate about continuously learning and staying up to date with new technologies.
 - 🌱 Currently gaining experience in:
   - Python
   - Java
@@ -58,8 +58,7 @@ I am a computer programming student, currently halfway through my degree. I am e
 <br>
   <br>
 
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+Thanks for visiting my profile! I'm constantly learning and ready to improve every day. Check out my repositories!
 
 <br>
 <br>
