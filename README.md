@@ -16,7 +16,7 @@ I am a computer programming student, currently halfway through my degree. I am e
 - Outside tech, I love practicing yoga, playing piano, and reading detective books.
 - Reach out to me at: <a href="lucianaddeblasi@gmail.com">lucianaddeblasi@gmail.com</a>
 
-## My Skills Include
+## My Skills include
 
 <h4> Languages </h4>
 <span> 
@@ -45,13 +45,10 @@ I am a computer programming student, currently halfway through my degree. I am e
 
 </span>
 
-## Check out my Social Media
+## Find me on
 
-<a href= "https://www.instagram.com/ludeblasi/?hl=es">
-    <img src="https://img.shields.io/badge/Instagram-218C8D.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
 <a href="https://www.linkedin.com/in/luciana-deblasi/" >
-  <img src="https://img.shields.io/badge/linkedin-6CCECB?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <br>
