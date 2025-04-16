@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a computer programming student. I am expanding my knowledge in both front-end and back-end development. I love building new, productive, and creative projects. I am passionate about continuously learning and staying up to date with new technologies.
+I am a computer programming student, expanding my knowledge in both front-end and back-end development. I love building new, productive, and creative projects. I am passionate about continuously learning and staying up to date with new technologies.
 - 🌱 Currently gaining experience in:
   - Python
   - Java
